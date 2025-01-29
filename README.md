@@ -21,5 +21,6 @@ Movement-related modulation: Neural activity variations during motor tasks like 
 Compare the simulated results with real LFP recordings:
 Oscillatory power changes.
 Synchrony and functional connectivity patterns.
-Assess differences across conditions (e.g., MedOn vs. MedOff, Rest vs. Movement).
+Assess differences across conditions  MedOn vs. MedOff.
+
 Fine-tune model parameters to better fit experimental data and refine insights into Parkinson's disease neurophysiology.
